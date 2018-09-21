@@ -13,7 +13,7 @@ Homepage: http://github.com/Floppy/currentcost-daemon
 
 1) Enable gems from gemcutter, if you haven't already done so:
     > sudo gem install gemcutter
-    > sudo gem tumble
+    > sudo gem install tumble
 
 2) Install gem
     > sudo gem install currentcostd
